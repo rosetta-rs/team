@@ -12,6 +12,11 @@ Potential criteria for including a crate:
 - Popularity
 - Fulfills a unique niche
 
+Submissions are preferred to be idiomatic uses of an API (think "what would a
+naive user write") though optimized variants may also be included for
+comparison.  This is to help demonstrate the expressiveness of the API and help
+people translate from one API to another.
+
 Other ways of discovering crates
 - [crates.io](https://crates.io/)
 - [lib.rs](https://lib.rs/)
